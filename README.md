@@ -1,13 +1,11 @@
-# Getting Started with Create React App
+
 
 A simple game where user adds players and then picks a looser for who pays
 the bill.
 
 This is a learning exercise.  Dependencies used:
 
-useContext hook
-react-bootstrap
-react-toastify
+useContext hook, react-bootstrap, react-toastify
 
 
 
